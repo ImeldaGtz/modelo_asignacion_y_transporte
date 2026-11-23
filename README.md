@@ -17,7 +17,7 @@ Se puede/n cambiar:
 * Identificadores
 
 #### Avances
-[ ] Pruebas con javascript-lp-solver
+[X] Pruebas con javascript-lp-solver
 [ ] Visualización de tabla de costos
 [ ] Edición de la tabla de costos
 [ ] Adición de restricciones
